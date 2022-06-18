@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw1</string>
+    <string name="text">Введите текст</string>
+    <string name="start">Start</string>
+    <string name="tx">Ну..Пиши уже</string>
+    <string name="key">key</string>
+</resources>
